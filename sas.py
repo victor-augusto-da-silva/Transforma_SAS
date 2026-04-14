@@ -2,9 +2,6 @@ import pandas as pd
 from pathlib import Path
 
 
-#Arquivo de progresso academico da pos 
-#input_path = Path(r"\\172.23.91.5\sas_publico\)
-#output_path = Path.home() / "Downloads" / "ac_pos_graduacao.parquet"
 
 
 
